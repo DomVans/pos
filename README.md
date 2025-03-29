@@ -31,6 +31,9 @@ DB_PASSWORD=
 
 9. Log in using the credential created in step 7
 
+10. If APP_KEY is missing use the command in the terminal
+"php artisan key:generate"
+
 How to use the System?
 
 Users - We can create other user admins and edit or delete them as needed.
